@@ -6,7 +6,7 @@
 
 - 👨‍💻 You can also check out my portfolio at [https://akshay-so.github.io/](https://akshay-so.github.io/)
 
-- 📫 How to reach me **talktokhushboogoel@gmail.com**
+- 📫 How to reach me **akshaysuthar05@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
 
