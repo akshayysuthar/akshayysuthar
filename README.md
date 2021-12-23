@@ -16,18 +16,18 @@
 </p>
 
 <h3 align="center">Skills:</h3>
-<p align="center">
- - I’m currently comfortable on : 
-    - Frontend Development (React JS)
-    - App Development (Java, React Native)
-</p>
+
+- I’m comfortable on:  
+   - Frontend Development (React JS)
+   - App Development (Java, React Native)
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 <h3 align="center">Works</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-so&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
