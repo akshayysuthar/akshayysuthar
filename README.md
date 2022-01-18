@@ -28,8 +28,8 @@
 </p>
 <h3 align="center">Works</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-so&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayysuthar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay-so&hide=contribs,prs)
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayysuthar&hide=contribs,prs)
 
